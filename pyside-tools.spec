@@ -13,6 +13,7 @@ BuildRequires: phonon-devel
 BuildRequires: generatorrunner-devel >= 0.6.3
 BuildRequires: shiboken-devel >= 1.0.0
 Buildrequires: python-devel
+Buildrequires: pyside-devel
 Requires: pyside-phonon
 Requires: pyside-core
 Requires: pyside-declarative
