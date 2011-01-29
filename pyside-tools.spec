@@ -44,6 +44,7 @@ translatable strings, and updates the translation files.
 %{_bindir}/pyside-lupdate
 %{_bindir}/pyside-rcc
 %{_bindir}/pyside-uic
+%{_mandir}/man1/*
 
 %prep
 %setup -q -n %{name}-%{version}
