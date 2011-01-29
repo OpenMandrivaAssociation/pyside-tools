@@ -1,5 +1,5 @@
 Name: pyside-tools
-Version: 0.2.4
+Version: 0.2.6
 Release: %mkrel 1
 License: LGPLv2+
 Summary: PySide development tools
@@ -10,7 +10,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-root
 BuildRequires: cmake
 BuildRequires: qt4-devel
 BuildRequires: phonon-devel
-BuildRequires: generatorrunner-devel >= 0.6.3
+BuildRequires: generatorrunner-devel >= 0.6.4
 BuildRequires: shiboken-devel >= 1.0.0
 Buildrequires: python-devel
 Buildrequires: pyside-devel
