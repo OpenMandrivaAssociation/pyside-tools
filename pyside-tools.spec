@@ -1,5 +1,5 @@
 Name: pyside-tools
-Version: 0.2.7
+Version: 0.2.8
 Release: %mkrel 1
 License: LGPLv2+
 Summary: PySide development tools
