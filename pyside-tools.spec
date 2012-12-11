@@ -1,6 +1,6 @@
 Name:		pyside-tools
-Version:	0.2.13
-Release:	2
+Version:	0.2.14
+Release:	1
 License:	LGPLv2+
 Summary:	PySide development tools
 Group:		Development/KDE and Qt
@@ -9,10 +9,9 @@ Source0:	http://www.pyside.org/files/%{name}-%{version}.tar.bz2
 BuildRequires:	cmake
 BuildRequires:	qt4-devel
 BuildRequires:	phonon-devel
-BuildRequires:	generatorrunner-devel >= 0.6.12
-BuildRequires:	shiboken-devel >= 1.0.6
+BuildRequires:	shiboken-devel
 Buildrequires:	python-devel
-Buildrequires:	pyside-devel >= 1.0.6
+Buildrequires:	pyside-devel
 Requires:	pyside-phonon
 Requires:	pyside-core
 Requires:	pyside-declarative
