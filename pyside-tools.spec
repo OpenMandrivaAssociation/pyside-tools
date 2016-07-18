@@ -1,6 +1,6 @@
 Name:		pyside-tools
 Version:	0.2.14
-Release:	2
+Release:	3
 License:	LGPLv2+
 Summary:	PySide development tools
 Group:		Development/KDE and Qt
